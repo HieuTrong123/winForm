@@ -1,0 +1,15 @@
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\bin\Debug\2115232_BTLT_Buoi02.exe.config
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\bin\Debug\2115232_BTLT_Buoi02.exe
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\bin\Debug\2115232_BTLT_Buoi02.pdb
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\2115232_BTLT_Buoi02.csproj.AssemblyReference.cache
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\2115232_BTLT_Buoi02.csproj.SuggestedBindingRedirects.cache
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\_2115232_BTLT_Buoi02.Properties.Resources.resources
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\2115232_BTLT_Buoi02.csproj.GenerateResource.cache
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\2115232_BTLT_Buoi02.csproj.CoreCompileInputs.cache
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\2115232_BTLT_Buoi02.exe
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\2115232_BTLT_Buoi02.pdb
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\_2115232_BTLT_Buoi02.Form01.resources
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\_2115232_BTLT_Buoi02.ImageList.resources
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\_2115232_BTLT_Buoi02.MenuStrippppp.resources
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\_2115232_BTLT_Buoi02.ToolStripppp.resources
+D:\ƯDDST\2115232_BTLT_Buoi02\2115232_BTLT_Buoi02\obj\Debug\_2115232_BTLT_Buoi02.Panelll.resources
