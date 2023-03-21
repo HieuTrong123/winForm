@@ -1,0 +1,13 @@
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\bin\Debug\Lab2_Demo.exe.config
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\bin\Debug\Lab2_Demo.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\bin\Debug\Lab2_Demo.pdb
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\obj\Debug\Lab2_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\obj\Debug\Lab2_Demo.frmTrungTam.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\obj\Debug\Lab2_Demo.Properties.Resources.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\obj\Debug\Lab2_Demo.csproj.GenerateResource.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\obj\Debug\Lab2_Demo.csproj.CoreCompileInputs.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\obj\Debug\Lab2_Demo.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\obj\Debug\Lab2_Demo.pdb
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\obj\Debug\Lab2_Demo.csproj.AssemblyReference.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\obj\Debug\Lab2_Demo.frmGiaoVIen.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Lab2_Demo\obj\Debug\Lab2_Demo.frmTBGiaoVien.resources

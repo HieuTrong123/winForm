@@ -1,0 +1,10 @@
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Myform\bin\Debug\Myform.exe.config
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Myform\bin\Debug\Myform.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Myform\bin\Debug\Myform.pdb
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Myform\obj\Debug\Myform.csproj.AssemblyReference.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Myform\obj\Debug\Myform.csproj.SuggestedBindingRedirects.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Myform\obj\Debug\Myform.Properties.Resources.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Myform\obj\Debug\Myform.csproj.GenerateResource.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Myform\obj\Debug\Myform.csproj.CoreCompileInputs.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Myform\obj\Debug\Myform.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_BTH_Buoi2\Myform\Myform\obj\Debug\Myform.pdb
