@@ -16,7 +16,7 @@ namespace _2115207_DinhTrongHieu_BTH4
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmChinh());
         }
     }
 }

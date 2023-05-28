@@ -12,7 +12,7 @@ namespace _2115207_DinhTrongHieu_BTH3
 {
     public partial class frmSinhVien : Form
     {
-        QuanLySinhVien qlsv;
+        public QuanLySinhVien qlsv;
         public frmSinhVien()
         {
             InitializeComponent();
@@ -102,7 +102,7 @@ namespace _2115207_DinhTrongHieu_BTH3
             lvitem.SubItems.Add(sv.Hinh);
             this.lvSinhVien.Items.Add(lvitem);
         }
-        private void LoadListView()
+        public void LoadListView(QuanLySinhVien qlsv)
         {
             this.lvSinhVien.Items.Clear();
             int count = qlsv.DanhSach.Count;
@@ -148,7 +148,7 @@ namespace _2115207_DinhTrongHieu_BTH3
             else
             {
                 this.qlsv.Them(sv);
-                this.LoadListView();
+                this.LoadListView(this.qlsv);
             }
         }
 
@@ -168,7 +168,7 @@ namespace _2115207_DinhTrongHieu_BTH3
                 if (lvitem.Checked)
                     qlsv.Xoa(lvitem.SubItems[0].Text, SoSanhTheoMa);
             }
-            this.LoadListView();
+            this.LoadListView(this.qlsv);
             this.btnMacDinh.PerformClick();
         }
 
@@ -194,7 +194,7 @@ namespace _2115207_DinhTrongHieu_BTH3
             kqsua = qlsv.Sua(sv, sv.MaSo, SoSanhTheoMa);
             if (kqsua)
             {
-                this.LoadListView();
+                this.LoadListView(this.qlsv);
             }
         }
         private int SoSanhTheoMa(object obj1, object obj2)
@@ -207,15 +207,143 @@ namespace _2115207_DinhTrongHieu_BTH3
         {
             qlsv = new QuanLySinhVien();
             qlsv.DocTuFile();
-            LoadListView();
+            LoadListView(this.qlsv);
         }
 
         private void btnBrowse_Click(object sender, EventArgs e)
         {
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                txtHinh.Text=openFileDialog1.FileName;
+                pbHinh.ImageLocation = openFileDialog1.FileName;
+            }
+        }
+
+        private void mởFileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                txtHinh.Text = openFileDialog1.FileName;
+                pbHinh.ImageLocation = openFileDialog1.FileName;
+            }
+        }
+
+        private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void thêmToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SinhVien sv = GetSinhVien();
+            SinhVien kq = qlsv.Tim(sv.MaSo, delegate (object obj1, object obj2)
+            {
+                return (obj2 as SinhVien).MaSo.CompareTo(obj1.ToString());
+            });
+            if (kq != null)
+                MessageBox.Show("mã sinh viên đã tồn tại!", "lỗi thêm dữ liệu", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            else
+            {
+                this.qlsv.Them(sv);
+                this.LoadListView(this.qlsv);
+            }
+        }
+
+        private void xóaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int count, i;
+            ListViewItem lvitem;
+            count = this.lvSinhVien.Items.Count - 1;
+            for (i = count; i >= 0; i--)
+            {
+                lvitem = this.lvSinhVien.Items[i];
+                if (lvitem.Checked)
+                    qlsv.Xoa(lvitem.SubItems[0].Text, SoSanhTheoMa);
+            }
+            this.LoadListView(this.qlsv);
+            this.btnMacDinh.PerformClick();
+        }
+
+        private void sửaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SinhVien sv = GetSinhVien();
+            bool kqsua = false;
+            kqsua = qlsv.Sua(sv, sv.MaSo, SoSanhTheoMa);
+            if (kqsua)
+            {
+                this.LoadListView(this.qlsv);
+            }
+        }
+
+        private void fontToolStripMenuItem_Click(object sender, EventArgs e)
+        {
 
         }
 
-        private void lvSinhVien_SelectedIndexChanged_1(object sender, EventArgs e)
+        private void màuChữToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void sắpXếpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmTuyChon frm = new frmTuyChon(qlsv);
+            frm.groupBox1.Enabled = false;
+            frm.ShowDialog();
+           
+
+        }
+        private void tìmKiếmToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmTuyChon frm = new frmTuyChon(qlsv);
+            frm.btnSapXep.Enabled = false;
+            frm.ShowDialog();
+         
+        }
+
+        private void toolStripComboBox1_TextChanged(object sender, EventArgs e)
+        {
+            lvSinhVien.Font = new Font(lvSinhVien.Font.FontFamily, float.Parse(toolStripComboBox1.Text));
+        }
+
+        private void editToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            toolStripComboBox1.Text = lvSinhVien.Font.Size.ToString();
+      
+        }
+        
+        private void tscbColor_TextChanged(object sender, EventArgs e)
+        {
+            var firstColor = lvSinhVien.ForeColor;
+            switch (tscbColor.Text)
+            {
+                case "Red":
+                    lvSinhVien.ForeColor = Color.Red;
+                    break;
+                case "Blue":
+                    lvSinhVien.ForeColor = Color.Blue;
+                    break;
+                case "Yellow":
+                    lvSinhVien.ForeColor = Color.Yellow;
+                    break;
+                default:
+                    lvSinhVien.ForeColor = Color.Black;
+                    break;
+            }
+           
+        }
+
+        private void toolStripComboBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
         {
 
         }

@@ -1,2 +1,5 @@
-SV.15207*Đinh Trọng Hiếu*2003/04/19*DaLat*CTK45B*Hinh*1*Ganh tem,Kien tao
-SV.22998*Lâm Quang Linh*2003/08/15*DaLat*CTK45B*@"..\Image\1.jpg"*0*Yêu Phương Ly
+SV.00013*Hoàng Lâm Vi*1990/09/20*Bình Định*CTK34*Hinh*1*Mạng truyền thông,công nghệ phần mềm
+SV.00018*Lê Thị Anh Thư*1990/11/20*Đà Lạt*CTK34*Hinh*0*Mạng truyền thông,công nghệ phần mềm
+SV.00010*Nguyễn Thị Hoa*1990/07/20*Hà Nội*CTK34*Hinh*0*Mạng truyền thông,công nghệ phần mềm
+SV.00002*Nguyễn Văn A*1989/10/15*Đà Lạt*CTK34*Hinh*1*Mạng truyền thông,công nghệ phần mềm
+SV.00020*Nguyễn Văn Hùng*1992/08/25*Gia Lai*CTK34*Hinh*1*Mạng truyền thông,công nghệ phần mềm

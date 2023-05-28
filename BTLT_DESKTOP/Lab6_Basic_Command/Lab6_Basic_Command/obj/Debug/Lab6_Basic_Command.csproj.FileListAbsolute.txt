@@ -1,0 +1,13 @@
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe.config
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.pdb
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.AssemblyReference.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.SuggestedBindingRedirects.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Form1.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Properties.Resources.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.GenerateResource.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.CoreCompileInputs.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.pdb
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.frmFood.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.frmBills.resources

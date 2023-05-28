@@ -54,7 +54,7 @@ namespace _2115207_DinhTrongHieu_BTH3
             int i, count;
             bool kq=false;
             count=this.DanhSach.Count-1;
-            for(i=0;i<count;i++)
+            for(i=0;i<=count;i++)
                 if(ss(obj,DanhSach[i]) == 0)
                 {
                     DanhSach[i] = svsua;

@@ -1,0 +1,5 @@
+SV.00013*Hoàng Lâm Vi*False*9/20/1990 12:00:00 AM*CTK34*0000.000.000*HLV@gmail.com*Bình Định*Hinh
+SV.00018*Lê Thị Anh Thư*False*11/20/1990 12:00:00 AM*CTK34*0000.000.000*HLV@gmail.com*Đà Lạt*Hinh
+SV.00010*Nguyễn Thị Hoa*False*7/20/1990 12:00:00 AM*CTK34*0000.000.000*HLV@gmail.com*Hà Nội*Hinh
+SV.00002*Nguyễn Văn A*False*10/15/1989 12:00:00 AM*CTK34*0000.000.000*HLV@gmail.com*Đà Lạt*Hinh
+SV.00020*Nguyễn Văn Hùng*False*8/25/1992 12:00:00 AM*CTK34*0000.000.000*HLV@gmail.com*Gia Lai*Hinh

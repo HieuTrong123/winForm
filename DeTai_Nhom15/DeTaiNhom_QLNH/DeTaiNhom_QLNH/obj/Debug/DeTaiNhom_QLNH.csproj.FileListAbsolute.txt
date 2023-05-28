@@ -1,0 +1,13 @@
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\bin\Debug\DeTaiNhom_QLNH.exe.config
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\bin\Debug\DeTaiNhom_QLNH.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\bin\Debug\DeTaiNhom_QLNH.pdb
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\obj\Debug\DeTaiNhom_QLNH.csproj.AssemblyReference.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\obj\Debug\DeTaiNhom_QLNH.csproj.SuggestedBindingRedirects.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\obj\Debug\DeTaiNhom_QLNH.Properties.Resources.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\obj\Debug\DeTaiNhom_QLNH.csproj.GenerateResource.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\obj\Debug\DeTaiNhom_QLNH.csproj.CoreCompileInputs.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\obj\Debug\DeTaiNhom_QLNH.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\obj\Debug\DeTaiNhom_QLNH.pdb
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\obj\Debug\DeTaiNhom_QLNH.frmDanhSach.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\obj\Debug\DeTaiNhom_QLNH.frmTaiKhoan.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\DeTaiNhom_QLNH\DeTaiNhom_QLNH\obj\Debug\DeTaiNhom_QLNH.frmKhachHang.resources

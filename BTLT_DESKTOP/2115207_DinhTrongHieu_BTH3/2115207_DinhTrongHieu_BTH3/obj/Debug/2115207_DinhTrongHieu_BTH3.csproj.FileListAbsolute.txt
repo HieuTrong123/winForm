@@ -9,3 +9,4 @@ C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongH
 C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH3\2115207_DinhTrongHieu_BTH3\obj\Debug\2115207_DinhTrongHieu_BTH3.csproj.CoreCompileInputs.cache
 C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH3\2115207_DinhTrongHieu_BTH3\obj\Debug\2115207_DinhTrongHieu_BTH3.exe
 C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH3\2115207_DinhTrongHieu_BTH3\obj\Debug\2115207_DinhTrongHieu_BTH3.pdb
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH3\2115207_DinhTrongHieu_BTH3\obj\Debug\_2115207_DinhTrongHieu_BTH3.frmTuyChon.resources

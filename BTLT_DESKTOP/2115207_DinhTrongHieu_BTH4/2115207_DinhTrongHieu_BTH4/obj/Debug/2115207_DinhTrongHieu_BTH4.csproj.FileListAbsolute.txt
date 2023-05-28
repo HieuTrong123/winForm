@@ -1,0 +1,11 @@
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH4\2115207_DinhTrongHieu_BTH4\bin\Debug\2115207_DinhTrongHieu_BTH4.exe.config
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH4\2115207_DinhTrongHieu_BTH4\bin\Debug\2115207_DinhTrongHieu_BTH4.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH4\2115207_DinhTrongHieu_BTH4\bin\Debug\2115207_DinhTrongHieu_BTH4.pdb
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH4\2115207_DinhTrongHieu_BTH4\obj\Debug\2115207_DinhTrongHieu_BTH4.csproj.AssemblyReference.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH4\2115207_DinhTrongHieu_BTH4\obj\Debug\2115207_DinhTrongHieu_BTH4.csproj.SuggestedBindingRedirects.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH4\2115207_DinhTrongHieu_BTH4\obj\Debug\_2115207_DinhTrongHieu_BTH4.frmChinh.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH4\2115207_DinhTrongHieu_BTH4\obj\Debug\_2115207_DinhTrongHieu_BTH4.Properties.Resources.resources
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH4\2115207_DinhTrongHieu_BTH4\obj\Debug\2115207_DinhTrongHieu_BTH4.csproj.GenerateResource.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH4\2115207_DinhTrongHieu_BTH4\obj\Debug\2115207_DinhTrongHieu_BTH4.csproj.CoreCompileInputs.cache
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH4\2115207_DinhTrongHieu_BTH4\obj\Debug\2115207_DinhTrongHieu_BTH4.exe
+C:\Tài liệu học tập\2023-2024 DLU\winForm\BTLT_DESKTOP\2115207_DinhTrongHieu_BTH4\2115207_DinhTrongHieu_BTH4\obj\Debug\2115207_DinhTrongHieu_BTH4.pdb
