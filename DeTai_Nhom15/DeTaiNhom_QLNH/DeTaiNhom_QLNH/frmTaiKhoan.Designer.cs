@@ -141,6 +141,7 @@
             // 
             // dtpNgayBD
             // 
+            this.dtpNgayBD.Enabled = false;
             this.dtpNgayBD.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dtpNgayBD.Location = new System.Drawing.Point(138, 268);
             this.dtpNgayBD.Name = "dtpNgayBD";

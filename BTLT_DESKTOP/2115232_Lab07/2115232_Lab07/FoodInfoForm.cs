@@ -118,7 +118,7 @@ namespace _2115232_Lab07
             catch (Exception exception)
             {
                 MessageBox.Show(exception.Message, "Error");
-                this.Close();
+                this.Close();    
             }
         }
 
@@ -130,7 +130,7 @@ namespace _2115232_Lab07
                 SqlConnection conn = new SqlConnection(connectionString);
                 SqlCommand cmd = conn.CreateCommand();
                 cmd.CommandText = "execute UpdateFood @id, @name, @unit, @foodCategoryID, @price, @notes";
-                cmd.Parameters.Add("@id", SqlDbType.Int);
+                cmd.Parameters.Add("@id", SqlDbType.Int); 
                 cmd.Parameters.Add("@name", SqlDbType.NVarChar, 1000);
                 cmd.Parameters.Add("@unit", SqlDbType.NVarChar, 100);
                 cmd.Parameters.Add("@foodCategoryId", SqlDbType.Int);

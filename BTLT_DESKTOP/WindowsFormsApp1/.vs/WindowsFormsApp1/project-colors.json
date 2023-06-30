@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2fb76d7a-c137-48d7-816c-41df4536071d": {
+      "ProjectGuid": "2fb76d7a-c137-48d7-816c-41df4536071d",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 0
+    },
+    "941c2296-f09c-42c8-8815-da766c229214": {
+      "ProjectGuid": "941c2296-f09c-42c8-8815-da766c229214",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 1
+    },
+    "3eb7ab6b-8624-42b8-a878-809260f616e6": {
+      "ProjectGuid": "3eb7ab6b-8624-42b8-a878-809260f616e6",
+      "DisplayName": "WpfLibrary1",
+      "ColorIndex": 2
+    },
+    "c62fae4f-a13b-4ddd-a91b-bbf4e2f7cbc1": {
+      "ProjectGuid": "c62fae4f-a13b-4ddd-a91b-bbf4e2f7cbc1",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 3
+    },
+    "a9af2fdc-14bb-4c1a-affa-242c400d7c68": {
+      "ProjectGuid": "a9af2fdc-14bb-4c1a-affa-242c400d7c68",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 4
+    },
+    "7e9037e3-3261-4928-9cd5-30bf19ad598f": {
+      "ProjectGuid": "7e9037e3-3261-4928-9cd5-30bf19ad598f",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

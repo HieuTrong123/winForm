@@ -63,7 +63,7 @@ namespace DeTaiNhom_QLNH
             }
             if (tinh < 0)
             {
-                MessageBox.Show("Loi");
+                tinh = 0;
             }
             return tinh;
         }
@@ -72,6 +72,12 @@ namespace DeTaiNhom_QLNH
             if (cboLoai.SelectedIndex == -1) return;
             var c = conn.GetConnect();
             var cmd = c.CreateCommand();
+            string query = "SELECT HoTen FROM KhachHang WHERE MaKH = " + IDKH;
+            cmd.CommandText = query;
+            c.Open();
+            string catName = cmd.ExecuteScalar().ToString();
+            this.Text = "Danh sách Tài khoản của: " + catName;
+            c.Close();
             cmd.CommandText = "select STK, KhachHang.MaKH, HoTen, DiaChi, SDT, CMND, MaLoai, SoDu, LaiSuat, NgayBD from TaiKhoan, KhachHang " +
                   " where KhachHang.MaKH = TaiKhoan.MaKH and MaLoai = @maloai " +
                   " and KhachHang.MaKH = " + IDKH;

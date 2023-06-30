@@ -50,6 +50,7 @@ namespace _2115232_Lab07
             SqlCommand cmd = conn.CreateCommand();
             cmd.CommandText = "select * from Food where FoodCategoryID = @categoryID";
             cmd.Parameters.Add("@categoryID", SqlDbType.Int);
+
             if (cbbCategory.SelectedValue is DataRowView)
             {
                 DataRowView rowView = cbbCategory.SelectedValue as DataRowView;
